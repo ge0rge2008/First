@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This project uses an AND gate to accept two inputs, each input is True when their respective switch is turned on. When both inputs are True then the gate sends an electrical signal to the LED.
 
 ## How to test
 
-Explain how to use your project
+If you switch on the switches "1" and "2", then they will give different outputs, which turns the LED on or off.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None
